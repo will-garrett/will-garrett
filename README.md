@@ -3,7 +3,8 @@
 ### A Little About Me
 I'm an experienced Tech Lead / Engineering Manager, Full Stack Software Engineer, Data Scientist, Systems Architect, and AI/ML Engineer, based in Los Angeles, CA.
 
-You can learn more about my work and interests on my [**website** _(willgarrett.io_)](http://willgarrett.io)![http://willgarrett.io](https://img.shields.io/website?url=http%3A%2F%2Fwww.willgarrett.io&up_message=online&down_message=offline&label=willgarrett.io%20status&link=https%3A%2F%2Fwillgarrett.io
+You can learn more about my work and interests on my [**website** _(willgarrett.io_)](http://willgarrett.io)
+![http://willgarrett.io](https://img.shields.io/website?url=http%3A%2F%2Fwww.willgarrett.io&up_message=online&down_message=offline&label=status&link=https%3A%2F%2Fwillgarrett.io&style=for-the-badge
 )
 
 
@@ -52,3 +53,6 @@ Here is an incomplete list of skills, services, technologies, and languages, I r
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+
+## Portfolio
+Coming soon
