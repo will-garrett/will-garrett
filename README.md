@@ -4,6 +4,7 @@
 I'm an experienced Tech Lead / Engineering Manager, Full Stack Software Engineer, Data Scientist, Systems Architect, and AI/ML Engineer, based in Los Angeles, CA.
 
 You can learn more about my work and interests on my [**website** _(willgarrett.io_)](http://willgarrett.io)
+
 ![http://willgarrett.io](https://img.shields.io/website?url=http%3A%2F%2Fwww.willgarrett.io&up_message=online&down_message=offline&label=status&link=https%3A%2F%2Fwillgarrett.io&style=for-the-badge
 )
 
