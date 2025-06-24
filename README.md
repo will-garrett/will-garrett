@@ -58,4 +58,9 @@ Here is an incomplete list of skills, services, technologies, and languages, I r
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 
 ## Portfolio
-Coming soon
+Coming soon...
+
+But in the meantime checkout these:
+
+- [Will Save the Transcriber](https://github.com/will-save/will-save-the-transcriber) - Episode transcription scraper for [Will Save the Podcast](https://www.willsavethepodcast.com)
+- [Missile Defense Network Simulator](https://github.com/will-garrett/missile-defense-sim) - A NATS distrubted simulator for Missile Attacks and Defensive Counter Battery (like iron-dome)
