@@ -19,6 +19,8 @@ Here is an incomplete list of skills, services, technologies, and languages, I r
 ![https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![https://www.python.org/](https://img.shields.io/badge/Python-forestgreen?logo=python&logoColor=white&style=for-the-badge)
 ![https://go.dev/](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![https://www.rust-lang.org/](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white&style=for-the-badge)
+![https://odin-lang.org/](https://img.shields.io/badge/Odin-3882D6?logo=odin&logoColor=white&style=for-the-badge)
 ![https://react.dev/](https://img.shields.io/badge/React-black?logo=react&logoColor=61dafb&style=for-the-badge)
 ![https://nextjs.org/](https://img.shields.io/badge/Next.js-green?logo=nextdotjs&style=for-the-badge)
 ![https://www.php.net/](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
